@@ -3,7 +3,7 @@
 client_id = "a42581e97bb3e602dcb06e40d500df03"
 name = "fx-test-app"
 handle = "fx-test-app"
-application_url = "https://interference-ottawa-conviction-portuguese.trycloudflare.com"
+application_url = "https://trustees-informed-suggested-rn.trycloudflare.com"
 embedded = true
 
 [build]
@@ -21,15 +21,16 @@ api_version = "2025-04"
   topics = [ "app/scopes_update" ]
   uri = "/webhooks/app/scopes_update"
 
+
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
 scopes = "write_products, write_discounts, write_discounts_allocator_functions, read_products"
 
 [auth]
 redirect_urls = [
-  "https://interference-ottawa-conviction-portuguese.trycloudflare.com/auth/callback",
-  "https://interference-ottawa-conviction-portuguese.trycloudflare.com/auth/shopify/callback",
-  "https://interference-ottawa-conviction-portuguese.trycloudflare.com/api/auth/callback"
+  "https://trustees-informed-suggested-rn.trycloudflare.com/auth/callback",
+  "https://trustees-informed-suggested-rn.trycloudflare.com/auth/shopify/callback",
+  "https://trustees-informed-suggested-rn.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
