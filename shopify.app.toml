@@ -3,7 +3,7 @@
 client_id = "a42581e97bb3e602dcb06e40d500df03"
 name = "fx-test-app"
 handle = "fx-test-app"
-application_url = "https://gibraltar-subdivision-nav-ranks.trycloudflare.com"
+application_url = "https://hispanic-especially-ext-protection.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_discounts, write_discounts_allocator_functions, read_products"
 
 [auth]
 redirect_urls = [
-  "https://gibraltar-subdivision-nav-ranks.trycloudflare.com/auth/callback",
-  "https://gibraltar-subdivision-nav-ranks.trycloudflare.com/auth/shopify/callback",
-  "https://gibraltar-subdivision-nav-ranks.trycloudflare.com/api/auth/callback"
+  "https://hispanic-especially-ext-protection.trycloudflare.com/auth/callback",
+  "https://hispanic-especially-ext-protection.trycloudflare.com/auth/shopify/callback",
+  "https://hispanic-especially-ext-protection.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
