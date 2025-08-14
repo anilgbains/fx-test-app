@@ -351,7 +351,6 @@ The Remix app template comes with the following out-of-the-box functionality:
 ## Tech Stack
 
 This template uses [Remix](https://remix.run). The following Shopify tools are also included to ease app development:
-
 - [Shopify App Remix](https://shopify.dev/docs/api/shopify-app-remix) provides authentication and methods for interacting with Shopify APIs.
 - [Shopify App Bridge](https://shopify.dev/docs/apps/tools/app-bridge) allows your app to seamlessly integrate your app within Shopify's Admin.
 - [Polaris React](https://polaris.shopify.com/) is a powerful design system and component library that helps developers build high quality, consistent experiences for Shopify merchants.
