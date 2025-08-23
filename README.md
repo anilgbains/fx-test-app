@@ -370,3 +370,4 @@ This template uses [Remix](https://remix.run). The following Shopify tools are a
 # Add 
 - Discount Frontend
 - Something else
+- Create this from scratch again
